@@ -1,7 +1,7 @@
 ## Bibliografia
-- Dotnet-Bot. (s. f.). Regex.IsMatch Método (System.Text.RegularExpressions). Microsoft Learn. https://learn.microsoft.com/es-es/dotnet/api/system.text.regularexpressions.regex.ismatch?view=net-8.0
-- GfG. (2023, 19 febrero). C Equals(String, string) method. GeeksforGeeks. https://www.geeksforgeeks.org/c-sharp-equalsstring-string-method/
-- ChatGPT. (s. f.). https://chat.openai.com/?model=text-davinci-002-render-sha
+- Dotnet-Bot. (s. f.). Regex.IsMatch Método (System.Text.RegularExpressions). Microsoft Learn. https://learn.microsoft.com/es-es/dotnet/api/system.text.regularexpressions.regex.ismatch?view=net-8.0 3/4/2024
+- GfG. (2023, 19 febrero). C Equals(String, string) method. GeeksforGeeks. https://www.geeksforgeeks.org/c-sharp-equalsstring-string-method/ 3/4/2024
+- ChatGPT. (s. f.). https://chat.openai.com/?model=text-davinci-002-render-sha 3/4/2024
   ### IA CONSULTADA:
   ##### CHAT GPT:
 - Prompts: tengo este codigo:    public static Score[] GenerateUniqueRanking(List<Score>scores)
